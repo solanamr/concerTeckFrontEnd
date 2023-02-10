@@ -1,5 +1,5 @@
 import axios from "axios";
-const url = "https://concerteckback-production.up.railway.app";
+const url = "https://concerteckback-production-075f.up.railway.app";
 
 export function getEvents() {
   return async function (dispatch) {
